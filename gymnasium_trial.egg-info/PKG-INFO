@@ -4,6 +4,8 @@ Version: 0.0.1
 Author: Jason Chen
 License-File: LICENSE
 Requires-Dist: gymnasium
+Requires-Dist: swig
+Requires-Dist: tqdm
 Dynamic: author
 Dynamic: license-file
 Dynamic: requires-dist
