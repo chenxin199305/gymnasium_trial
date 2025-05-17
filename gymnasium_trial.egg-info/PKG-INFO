@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: gymnasium_trial
+Version: 0.0.1
+Author: Jason Chen
+License-File: LICENSE
+Requires-Dist: gymnasium
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist

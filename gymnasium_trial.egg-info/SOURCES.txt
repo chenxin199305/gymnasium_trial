@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+gymnasium_trial.egg-info/PKG-INFO
+gymnasium_trial.egg-info/SOURCES.txt
+gymnasium_trial.egg-info/dependency_links.txt
+gymnasium_trial.egg-info/requires.txt
+gymnasium_trial.egg-info/top_level.txt
